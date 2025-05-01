@@ -1,50 +1,35 @@
 Learning App UI 🎓 📱
+A fresh and clean UI that makes it easy for users to explore and join courses.
 
-<img src="./vkf3sehb.png"
-style="width:6.69297in;height:6.67888in" />
 
-Introduction
+![Screenshot_1746077607](https://github.com/user-attachments/assets/c11149ba-85b6-4934-8030-b0bf2f112bd5)
 
-In this project, you will design and develop a Learning App UI in
-Flutter. This app will allow users to explore online courses, sign up,
-and view course details. The main focus is on creating an engaging,
-well-structured user interface with multiple screens.
 
-📱 Core Screens to Implement:
+## Features
+- Smooth onboarding with illustrated intro screens
+- Minimal and friendly splash screen
+- Organized course layout with clear typography and visuals
 
-✅ Splash Screen – Displays
-the app logo.
+## Tech Stack 
+- Flutter (latest version) 
+- Dart
 
-✅ Onboarding Screens – Three
-intro screens guiding users about the app.  
-✅ Login & Sign-Up Screens – Allow users to register and log in.
+## Installation 
+1.	Clone the repository: 
+git clone https://github.com/shtwaijri/Learning-App-UI.git
 
-✅ Home Screen – Displays user info, course categories, and available
-courses.
+2.	Navigate to the project folder: 
+cd  Learning-App-UI
 
-✅ Course Details Screen –
-Shows course description, price, and an "Add to Cart" button.
+3. Install dependencies: 
+flutter pub get 
 
-🎨 Figma UI:
+4.	Run the app: 
+flutter run 
 
-https://www.ﬁgma.com/design/xlEI4XXk7ZRzTRxfLc46fE/Course-EdTech-Mobile-App-(Community)?node-id=0-1&p=f&t=FgLZdcCvSivg3qjR-0
+## Author 
+- Shatha Altwaijri 
 
-https://www.ﬁgma.com/design/xlEI4XXk7ZRzTRxfLc46fE/Course-EdTech-Mobile-App-(Community)?node-id=0-1&p=f&t=FgLZdcCvSivg3qjR-0
 
-💻 GitHub Submission
-Guidelines:  
-- Your README.md should include:
 
-> \- Project description  
-> - Setup instructions
->
-> \- Screenshots of your app
 
-⏰ Deadline:
-
-Your project must be submitted by 1/5/2025 , before 10:00 AM.
-
-✨ Reminder:
-
-"Learning never stops! Build
-great UI, and let your app inspire others." 🚀
