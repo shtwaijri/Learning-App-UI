@@ -1,8 +1,10 @@
-Learning App UI 🎓 📱
+## Learning App UI 🎓 📱
+
 A fresh and clean UI that makes it easy for users to explore and join courses.
 
+![1](https://github.com/user-attachments/assets/affd849a-2d4c-4d6c-9b89-0b3c3b929522)
+![2](https://github.com/user-attachments/assets/e3c7e2b9-a520-4bb8-8cb9-57dc6f733d40)
 
-![Screenshot_1746077607](https://github.com/user-attachments/assets/c11149ba-85b6-4934-8030-b0bf2f112bd5)
 
 
 ## Features
